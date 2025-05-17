@@ -4,3 +4,4 @@ const person = {
 }
 
 module.exports.singlePerson = person;
+console.log('Hello from altsyntax.js');
